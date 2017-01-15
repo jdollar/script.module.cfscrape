@@ -6,7 +6,7 @@
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.requests" version="2.9.1"/>
-    <import addon="script.module.js2py" version="0.43"/>
+    <import addon="script.module.js2py" version="0.4.3"/>
   </requires>
   <extension point="xbmc.python.module"
              library="lib" />
