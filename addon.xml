@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="script.module.cfscrape"
        name="cfscrape"
-       version="1.0.0"
+       version="1.6.8"
        provider-name="jdollar">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.requests" version="2.9.1"/>
-    <import addon="script.module.js2py" version="1.0.0"/>
+    <import addon="script.module.js2py" version="0.43"/>
   </requires>
   <extension point="xbmc.python.module"
              library="lib" />
